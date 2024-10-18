@@ -1,3 +1,4 @@
+
 package Launch_Browser;
 
 import java.sql.Driver;
@@ -6,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Create_Amazon_acc {
+public class signin_Amazon_acc {
 
 	public static void main(String[] args) {
 		ChromeDriver driver = new ChromeDriver();
